@@ -1,0 +1,81 @@
+body {
+  background-image: url(../images/hacker.PNG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+/* ================== navbar styles ===================== */
+.navbar-nav li a {
+  color: rgb(247, 7, 7) !important;
+}
+.anavbar {
+  background-color: red;
+  padding: 30px;
+  min-height: 100vh;
+  font-size: 200%;
+  margin-left: 1100px;
+}
+.pool {
+  padding: 100px;
+  color: red;
+}
+.navbar-expand-lg {
+  color: #000;
+}
+.navbar {
+  position: absolute;
+  top: 0;
+  padding-left: 10px;
+
+  background-color: red;
+  padding: 30px;
+  min-height: 100vh;
+  font-size: 200%;
+  font-family: monospace;
+  font-weight: bold;
+  color: white;
+  text-align: justify;
+  text-decoration: none;
+  padding: 35px;
+  width: 250px;
+}
+.nav-links {
+  float: right;
+}
+.nav-link {
+  font-size: 100%;
+  font-family: monospace;
+  font-weight: bold;
+  color: white;
+  text-align: justify;
+  text-decoration: none;
+  padding: 10px;
+}
+
+/* ===========footer=================== */
+.footer {
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 10px;
+  padding-left: 50px;
+  color: #fff;
+  margin-left: 250px;
+}
+/* ========== row===================*/
+.row {
+}
+/* ===========row1========= */
+.row1 {
+}
+
+/* ==========cards========== */
+.card-group {
+  position: absolute;
+  top: 0;
+  padding-left: 10px;
+}
+.container {
+  color: rgb(7, 7, 7);
+}
